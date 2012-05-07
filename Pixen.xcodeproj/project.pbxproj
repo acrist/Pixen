@@ -33,7 +33,6 @@
 		C91C4F9515602F8000EA4AF5 /* PXPercentFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = C91C4F9315602F8000EA4AF5 /* PXPercentFormatter.m */; };
 		C91F07D3142D0BAB007F812C /* PXInfoPanel.xib in Resources */ = {isa = PBXBuildFile; fileRef = C91F07D1142D0BAB007F812C /* PXInfoPanel.xib */; };
 		C92A1E9213B12CAB0007235A /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = C92A1E9013B12CAB0007235A /* MainMenu.xib */; };
-		C931682414E9857C00B3E817 /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C931682314E9857C00B3E817 /* Sparkle.framework */; };
 		C93DB17F13ABC6BE006D42FE /* PXPreferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = C93DB17D13ABC6BE006D42FE /* PXPreferences.xib */; };
 		C93DB18213ABC8BE006D42FE /* PXGeneralPreferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = C93DB18013ABC8BE006D42FE /* PXGeneralPreferences.xib */; };
 		C93DB18613ABC963006D42FE /* PXGeneralPreferencesController.h in Headers */ = {isa = PBXBuildFile; fileRef = C93DB18313ABC963006D42FE /* PXGeneralPreferencesController.h */; };
@@ -1039,7 +1038,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C931682414E9857C00B3E817 /* Sparkle.framework in Frameworks */,
 				EAF6951106A9AE0B0019D8D7 /* Cocoa.framework in Frameworks */,
 				EA5E9EE80877237800FCE6FE /* Carbon.framework in Frameworks */,
 				BF269FE6091307BF00B7A218 /* QTKit.framework in Frameworks */,
