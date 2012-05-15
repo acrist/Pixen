@@ -115,7 +115,6 @@
 		C9F7F16D142BE3D500AB8E37 /* UTType+NSString.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F7F16B142BE3D500AB8E37 /* UTType+NSString.m */; };
 		C9FD44E113FD70FC00CEE4FC /* PXPatternEditor.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9FD44DF13FD70FC00CEE4FC /* PXPatternEditor.xib */; };
 		C9FEE51B13AF81AF004FFC3C /* PXGridSettings.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9FEE51913AF81AF004FFC3C /* PXGridSettings.xib */; };
-		C9FEF7B514E986B50028F8AA /* Sparkle.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = C931682314E9857C00B3E817 /* Sparkle.framework */; };
 		D88A735113A93CCD00B56402 /* PXLayerCollectionViewItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D88A734F13A93CCD00B56402 /* PXLayerCollectionViewItem.h */; };
 		D88A735213A93CCD00B56402 /* PXLayerCollectionViewItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D88A735013A93CCD00B56402 /* PXLayerCollectionViewItem.m */; };
 		D88FA9A113DD265000175A2F /* NSObject+AssociatedObjects.h in Headers */ = {isa = PBXBuildFile; fileRef = D88FA99F13DD265000175A2F /* NSObject+AssociatedObjects.h */; };
@@ -532,7 +531,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				C9FEF7B514E986B50028F8AA /* Sparkle.framework in Copy Frameworks */,
 			);
 			name = "Copy Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
